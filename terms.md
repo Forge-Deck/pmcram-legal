@@ -1,5 +1,6 @@
 ---
 title: PM Cram — Terms of Use
+permalink: /terms/
 ---
 
 # Terms of Use / End User License Agreement (EULA)

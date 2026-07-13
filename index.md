@@ -6,8 +6,8 @@ title: PM Cram — Legal
 
 Legal documents for the **PM Cram (PMP Prep)** mobile app.
 
-- [Privacy Policy](./privacy)
-- [Terms of Use / EULA](./terms)
+- [Privacy Policy](./privacy/)
+- [Terms of Use / EULA](./terms/)
 
 For any questions, contact **ForgeDeck@pm.me**.
 

@@ -1,5 +1,6 @@
 ---
 title: PM Cram — Privacy Policy
+permalink: /privacy/
 ---
 
 # Privacy Policy

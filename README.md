@@ -21,8 +21,8 @@ Update the **effective date** if you publish on a different day.
 2. Repo → **Settings → Pages** → Source: **Deploy from a branch** → Branch: `main` → `/ (root)`
    → Save.
 3. After a minute your pages are live at:
-   - `https://<your-username>.github.io/pmcram-legal/privacy`
-   - `https://<your-username>.github.io/pmcram-legal/terms`
+   - `https://forge-deck.github.io/pmcram-legal/privacy/`
+   - `https://forge-deck.github.io/pmcram-legal/terms/`
 
 ## Where the URLs go
 
