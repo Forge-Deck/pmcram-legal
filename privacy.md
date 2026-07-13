@@ -3,6 +3,8 @@ title: PM Cram — Privacy Policy
 permalink: /privacy/
 ---
 
+<p align="center"><img src="{{ '/assets/logo.png' | relative_url }}" width="88" height="88" alt="PM Cram logo"></p>
+
 # Privacy Policy
 
 **App:** PM Cram (PMP Prep)

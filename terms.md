@@ -3,6 +3,8 @@ title: PM Cram — Terms of Use
 permalink: /terms/
 ---
 
+<p align="center"><img src="{{ '/assets/logo.png' | relative_url }}" width="88" height="88" alt="PM Cram logo"></p>
+
 # Terms of Use / End User License Agreement (EULA)
 
 **App:** PM Cram (PMP Prep)
