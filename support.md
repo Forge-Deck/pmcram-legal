@@ -3,8 +3,6 @@ title: PM Cram — Support
 permalink: /support/
 ---
 
-<p align="center"><img src="{{ '/assets/logo.png' | relative_url }}" width="88" height="88" alt="PM Cram logo"></p>
-
 # Support
 
 Need a hand with **PM Cram (PMP Prep)**? Most questions are answered below. If you're still
@@ -46,13 +44,6 @@ Your unlock is tied to your store account and restores for free on your other de
 - Still stuck? Email **[ForgeDeck@pm.me](mailto:ForgeDeck@pm.me)** with the approximate date of
   purchase and your device type, and we'll sort it out.
 
-## Refunds
-
-Purchases are handled by the App Store or Google Play, so refunds are managed there:
-
-- **Apple:** [reportaproblem.apple.com](https://reportaproblem.apple.com)
-- **Google Play:** [support.google.com/googleplay](https://support.google.com/googleplay/answer/2479637)
-
 ## Study reminders
 
 You can enable optional daily study reminders in the app. These are local notifications on your
@@ -66,9 +57,13 @@ automatically when you're back online.
 
 ## Found a content issue or have a suggestion?
 
-We're always improving the material. If you spot an error in a question, definition or guide, or
-have a feature idea, email **[ForgeDeck@pm.me](mailto:ForgeDeck@pm.me)** — please include the
-question/topic so we can find it quickly.
+Our study content is **open source**, so the best way to fix an error in a question, definition or
+guide — or to suggest an improvement — is to open a **pull request** on the content repository:
+
+- [github.com/Forge-Deck/pmcram](https://github.com/Forge-Deck/pmcram)
+
+If you're not comfortable with GitHub, just email **[ForgeDeck@pm.me](mailto:ForgeDeck@pm.me)** with
+the question or topic and what you think should change, and we'll take a look.
 
 ---
 

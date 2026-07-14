@@ -3,8 +3,6 @@ title: PM Cram — Terms of Use
 permalink: /terms/
 ---
 
-<p align="center"><img src="{{ '/assets/logo.png' | relative_url }}" width="88" height="88" alt="PM Cram logo"></p>
-
 # Terms of Use / End User License Agreement (EULA)
 
 **App:** PM Cram (PMP Prep)
@@ -32,13 +30,11 @@ non-consumable in-app purchase** that unlocks the full study library and syncing
 - The unlock is tied to your store account and can be restored on your other devices signed in
   to that same account using the "Restore purchase" option.
 
-## 3. Refunds
+## 3. Payments
 
-All purchases are handled by Apple or Google. Refund requests are managed by the relevant store
-under its own policies:
-
-- Apple: https://support.apple.com/en-us/HT204084
-- Google Play: https://support.google.com/googleplay/answer/2479637
+Purchases are processed by the Apple App Store or Google Play; we do not process payments or
+handle billing directly. Any refunds are managed solely by those stores in accordance with their
+own policies and your applicable statutory rights.
 
 ## 4. Restrictions
 

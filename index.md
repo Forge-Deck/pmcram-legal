@@ -2,8 +2,6 @@
 title: PM Cram — Legal
 ---
 
-<p align="center"><img src="{{ '/assets/logo.png' | relative_url }}" width="112" height="112" alt="PM Cram logo"></p>
-
 # PM Cram — Legal
 
 Legal documents for the **PM Cram (PMP Prep)** mobile app.
