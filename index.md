@@ -8,6 +8,7 @@ title: PM Cram — Legal
 
 Legal documents for the **PM Cram (PMP Prep)** mobile app.
 
+- [Support](./support/)
 - [Privacy Policy](./privacy/)
 - [Terms of Use / EULA](./terms/)
 
