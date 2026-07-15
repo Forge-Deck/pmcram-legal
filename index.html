@@ -59,6 +59,14 @@
   .card p{margin:0;color:var(--muted);font-size:.94rem}
 
   /* pricing */
+  .story{padding:52px 0}
+  .story h2{text-align:center;color:var(--navy);font-size:1.7rem;margin:0 0 22px}
+  .story-card{max-width:780px;margin:0 auto;background:linear-gradient(160deg,#f4f8ff,#ffffff);border:1px solid var(--line);border-radius:20px;padding:30px}
+  .story-body p{margin:0 0 1em;font-size:1.02rem;line-height:1.7;color:var(--ink)}
+  .story-body p:last-child{margin-bottom:0}
+  .ethos{list-style:none;margin:22px 0 0;padding:0;display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:10px}
+  .ethos li{position:relative;padding:11px 12px 11px 36px;background:#fff;border:1px solid var(--line);border-radius:11px;font-size:.9rem;color:var(--ink)}
+  .ethos li::before{content:"✓";position:absolute;left:12px;top:11px;color:var(--teal);font-weight:800}
   .pricing{padding:56px 0}
   .price-box{max-width:560px;margin:0 auto;text-align:center;background:linear-gradient(160deg,#f2f7ff,#ffffff);
     border:1px solid var(--line);border-radius:20px;padding:34px 26px}
@@ -119,6 +127,25 @@
         <div class="card"><div class="ic">📘</div><h3>Guides &amp; case studies</h3><p>In-depth study guides, quick-reference charts, and scenario case studies that train real judgement.</p></div>
         <div class="card"><div class="ic">📈</div><h3>Progress &amp; weak areas</h3><p>See your readiness by domain and let the app surface exactly what to review next.</p></div>
         <div class="card"><div class="ic">🔒</div><h3>Private by design</h3><p>No accounts, no ads, no trackers. Your study data stays on your device, and it works offline.</p></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="story">
+    <div class="wrap">
+      <h2>Why I built PM Cram</h2>
+      <div class="story-card">
+        <div class="story-body">
+          <p>PM Cram started as my own study notes — the practice questions and banks of information I put together to sit the PMP&reg; exam. I wanted something I could actually learn from on the go, on my phone. But everything out there wanted ridiculous money — around $100 for two or three months' access — and most of it, beyond a key few, was AI-regurgitated filler with no real feel for the PMP mindset the exam actually tests.</p>
+          <p>So I built my own, from the ground up. I started with my notes and grew the question banks by hand — yes, with AI's help, but curating every single set and drilling down to the foundations. That's how I learn best: by building. This is the result, and it's the first app I've ever published.</p>
+          <p>The content is open-sourced and free for anyone to use outside the app. The app is free to start; the one-time unlock opens up the enhanced interactive tools — and helps cover the hosting and publishing costs. It isn't a business venture — it's just giving back.</p>
+        </div>
+        <ul class="ethos">
+          <li>No accounts, no sign-in, no ads, no tracking</li>
+          <li>Your study data stays securely on your device</li>
+          <li>The study content is free and open-source</li>
+          <li>A small one-time fee — for costs, not profit</li>
+        </ul>
       </div>
     </div>
   </section>
